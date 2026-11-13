@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="810" viewBox="0 0 1180 810">
+<defs><marker id="arr" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#b3261e"/></marker></defs>
+<rect x="0" y="0" width="1180" height="810" fill="#ffffff"/>
+<text x="37.0" y="43.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" text-anchor="start" font-weight="bold" fill="#111">Side view, to scale: adapter standing on card header J4</text>
+<rect x="16.0" y="650.0" width="572.6" height="22.4" fill="#2e6b3e" stroke="#222" stroke-width="1.2" />
+<text x="30.0" y="700.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#111">FPGA card (component side up)</text>
+<line x1="588.6" y1="661.2" x2="630.6" y2="713.0" stroke="#555" stroke-width="1"/>
+<text x="634.8" y="720.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#111">rear edge of the card</text>
+<rect x="16.0" y="517.0" width="154.0" height="133.0" fill="#3a3a3a" stroke="#222" stroke-width="1.2" />
+<text x="35.6" y="591.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#ffffff">heatsink</text>
+<rect x="502.2" y="614.4" width="35.6" height="35.6" fill="#1c1c1c" stroke="#222" stroke-width="1.2" />
+<rect x="515.5" y="529.6" width="9.0" height="120.4" fill="#d4af37" stroke="#222" stroke-width="0.6" />
+<line x1="502.2" y1="633.2" x2="387.0" y2="603.8" stroke="#555" stroke-width="1"/>
+<text x="380.0" y="605.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="end" font-weight="normal" fill="#111">J4 on the card</text>
+<rect x="480.1" y="204.9" width="22.4" height="413.7" fill="#1f5f3a" stroke="#222" stroke-width="1.2" />
+<rect x="502.5" y="495.4" width="35.0" height="119.0" fill="#555555" stroke="#222" stroke-width="1.2" />
+<rect x="457.7" y="470.9" width="50.4" height="5.6" fill="#d4af37" stroke="#222" stroke-width="0.6" />
+<rect x="515.5" y="529.6" width="9.0" height="84.8" fill="#d4af37" stroke="#222" stroke-width="0.6" fill-opacity="0.75"/>
+<rect x="502.5" y="292.4" width="106.4" height="88.2" fill="#111111" stroke="#222" stroke-width="1.2" />
+<rect x="554.3" y="284.7" width="462.0" height="103.6" fill="#f0c05a" stroke="#222" stroke-width="1.2" fill-opacity="0.85"/>
+<text x="691.5" y="344.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#111">Digilent HS3</text>
+<rect x="1016.3" y="314.1" width="144.2" height="44.8" fill="#888888" stroke="#222" stroke-width="1.2" />
+<text x="1040.1" y="344.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" text-anchor="start" font-weight="normal" fill="#ffffff">USB</text>
+<circle cx="491.3" cy="253.9" r="21.0" fill="#ffffff" stroke="#222" stroke-width="1" fill-opacity="0.5"/>
+<line x1="519.3" y1="537.4" x2="625.0" y2="465.2" stroke="#555" stroke-width="1"/>
+<text x="630.6" y="470.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#111">J2 socket (grips the J4 pins)</text>
+<line x1="593.5" y1="292.4" x2="653.0" y2="224.4" stroke="#555" stroke-width="1"/>
+<text x="658.6" y="225.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#111">J1, keyed HS3 header</text>
+<line x1="480.1" y1="412.0" x2="394.0" y2="386.8" stroke="#555" stroke-width="1"/>
+<text x="388.4" y="375.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="end" font-weight="normal" fill="#111">back face: pin names,</text>
+<text x="388.4" y="398.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="end" font-weight="normal" fill="#111">faces the heatsink</text>
+<line x1="502.5" y1="442.8" x2="625.0" y2="421.8" stroke="#555" stroke-width="1"/>
+<text x="630.6" y="424.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#111">front face: all parts, faces away from the card</text>
+<line x1="480.1" y1="253.9" x2="394.0" y2="239.8" stroke="#555" stroke-width="1"/>
+<text x="388.4" y="242.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="end" font-weight="normal" fill="#111">pull hole</text>
+<line x1="491.3" y1="120.9" x2="491.3" y2="196.5" stroke="#b3261e" stroke-width="3" marker-end="url(#arr)"/>
+<text x="470.3" y="112.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="end" font-weight="normal" fill="#b3261e">seat it: press here, straight down</text>
+<text x="519.3" y="140.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#b3261e">remove it: lift straight up, adapter and HS3 together</text>
+<text x="519.3" y="164.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#b3261e">never plug or unplug the HS3 or its USB plug while it is on the card</text>
+<line x1="433.2" y1="650.0" x2="433.2" y2="204.94" stroke="#333" stroke-width="1"/>
+<line x1="427.2" y1="650.0" x2="439.2" y2="650.0" stroke="#333" stroke-width="1"/>
+<line x1="427.2" y1="204.94" x2="439.2" y2="204.94" stroke="#333" stroke-width="1"/>
+<text x="426.2" y="524.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="middle" transform="rotate(-90 426.2 524.0)">31.8 mm above the card</text>
+</svg>

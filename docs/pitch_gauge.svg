@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210.0mm" height="297.0mm" viewBox="0 0 210.0 297.0">
+<rect x="0" y="0" width="210.0" height="297.0" fill="#fff"/>
+<text x="18.000" y="20.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="6.0" text-anchor="start" font-weight="bold" fill="#000">Pin pitch gauge: card header J4 and the Digilent HS3 plug</text>
+<text x="18.000" y="27.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.2" text-anchor="start" font-weight="normal" fill="#000">Print at 100 % (actual size). Do not use fit to page.</text>
+<text x="18.000" y="36.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.0" text-anchor="start" font-weight="bold" fill="#000">Step 1. Check the print scale: this bar must measure exactly 100 mm.</text>
+<line x1="18.000" y1="43.000" x2="118.000" y2="43.000" stroke="#000" stroke-width="0.3"/>
+<line x1="18.000" y1="40.000" x2="18.000" y2="46.000" stroke="#000" stroke-width="0.25"/>
+<text x="18.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">0</text>
+<line x1="28.000" y1="41.200" x2="28.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="28.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">10</text>
+<line x1="38.000" y1="41.200" x2="38.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="38.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">20</text>
+<line x1="48.000" y1="41.200" x2="48.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="48.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">30</text>
+<line x1="58.000" y1="41.200" x2="58.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="58.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">40</text>
+<line x1="68.000" y1="40.000" x2="68.000" y2="46.000" stroke="#000" stroke-width="0.25"/>
+<text x="68.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">50</text>
+<line x1="78.000" y1="41.200" x2="78.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="78.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">60</text>
+<line x1="88.000" y1="41.200" x2="88.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="88.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">70</text>
+<line x1="98.000" y1="41.200" x2="98.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="98.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">80</text>
+<line x1="108.000" y1="41.200" x2="108.000" y2="44.800" stroke="#000" stroke-width="0.25"/>
+<text x="108.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">90</text>
+<line x1="118.000" y1="40.000" x2="118.000" y2="46.000" stroke="#000" stroke-width="0.25"/>
+<text x="118.000" y="50.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">100</text>
+<text x="18.000" y="55.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">If it is not 100 mm the printer rescaled the page. Reprint before trusting the marks below.</text>
+<text x="18.000" y="68.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.0" text-anchor="start" font-weight="bold" fill="#000">Step 2. Card header J4 (six pins in a row). Lay the pins on each row. Only one row will match.</text>
+<text x="38.000" y="80.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">Row A: 2.54 mm pitch</text>
+<text x="38.000" y="84.800" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">What the adapter is built for. All six pins should sit on the six black squares.</text>
+<rect x="37.680" y="91.680" width="0.64" height="0.64" fill="#000"/>
+<line x1="38.000" y1="87.800" x2="38.000" y2="96.200" stroke="#000" stroke-width="0.1"/>
+<rect x="40.220" y="91.680" width="0.64" height="0.64" fill="#000"/>
+<line x1="40.540" y1="87.800" x2="40.540" y2="96.200" stroke="#000" stroke-width="0.1"/>
+<rect x="42.760" y="91.680" width="0.64" height="0.64" fill="#000"/>
+<line x1="43.080" y1="87.800" x2="43.080" y2="96.200" stroke="#000" stroke-width="0.1"/>
+<rect x="45.300" y="91.680" width="0.64" height="0.64" fill="#000"/>
+<line x1="45.620" y1="87.800" x2="45.620" y2="96.200" stroke="#000" stroke-width="0.1"/>
+<rect x="47.840" y="91.680" width="0.64" height="0.64" fill="#000"/>
+<line x1="48.160" y1="87.800" x2="48.160" y2="96.200" stroke="#000" stroke-width="0.1"/>
+<rect x="50.380" y="91.680" width="0.64" height="0.64" fill="#000"/>
+<line x1="50.700" y1="87.800" x2="50.700" y2="96.200" stroke="#000" stroke-width="0.1"/>
+<text x="36.500" y="99.400" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="end" font-weight="normal" fill="#000">GND end</text>
+<text x="52.200" y="99.400" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">1V8 end</text>
+<line x1="26.000" y1="92.000" x2="62.700" y2="92.000" stroke="#888" stroke-width="0.1" stroke-dasharray="1.2 0.8"/>
+<text x="64.700" y="93.100" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#555">optional: cut along the dashed line and hold the paper edge against the pins</text>
+<line x1="38.000" y1="103.500" x2="50.700" y2="103.500" stroke="#000" stroke-width="0.15"/>
+<line x1="38.000" y1="102.500" x2="38.000" y2="104.500" stroke="#000" stroke-width="0.15"/>
+<line x1="50.700" y1="102.500" x2="50.700" y2="104.500" stroke="#000" stroke-width="0.15"/>
+<text x="53.200" y="104.700" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.2" text-anchor="start" font-weight="normal" fill="#000">12.70 mm between the centres of the two end pins</text>
+<text x="38.000" y="114.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">Row B: 2.00 mm pitch</text>
+<text x="38.000" y="118.800" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">If the pins match this row instead, stop: the adapter's socket will not fit. Do not order.</text>
+<rect x="37.750" y="125.750" width="0.5" height="0.5" fill="#000"/>
+<line x1="38.000" y1="121.800" x2="38.000" y2="130.200" stroke="#000" stroke-width="0.1"/>
+<rect x="39.750" y="125.750" width="0.5" height="0.5" fill="#000"/>
+<line x1="40.000" y1="121.800" x2="40.000" y2="130.200" stroke="#000" stroke-width="0.1"/>
+<rect x="41.750" y="125.750" width="0.5" height="0.5" fill="#000"/>
+<line x1="42.000" y1="121.800" x2="42.000" y2="130.200" stroke="#000" stroke-width="0.1"/>
+<rect x="43.750" y="125.750" width="0.5" height="0.5" fill="#000"/>
+<line x1="44.000" y1="121.800" x2="44.000" y2="130.200" stroke="#000" stroke-width="0.1"/>
+<rect x="45.750" y="125.750" width="0.5" height="0.5" fill="#000"/>
+<line x1="46.000" y1="121.800" x2="46.000" y2="130.200" stroke="#000" stroke-width="0.1"/>
+<rect x="47.750" y="125.750" width="0.5" height="0.5" fill="#000"/>
+<line x1="48.000" y1="121.800" x2="48.000" y2="130.200" stroke="#000" stroke-width="0.1"/>
+<text x="36.500" y="133.400" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="end" font-weight="normal" fill="#000">GND end</text>
+<text x="49.500" y="133.400" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">1V8 end</text>
+<line x1="26.000" y1="126.000" x2="60.000" y2="126.000" stroke="#888" stroke-width="0.1" stroke-dasharray="1.2 0.8"/>
+<text x="62.000" y="127.100" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#555">optional: cut along the dashed line and hold the paper edge against the pins</text>
+<line x1="38.000" y1="137.500" x2="48.000" y2="137.500" stroke="#000" stroke-width="0.15"/>
+<line x1="38.000" y1="136.500" x2="38.000" y2="138.500" stroke="#000" stroke-width="0.15"/>
+<line x1="48.000" y1="136.500" x2="48.000" y2="138.500" stroke="#000" stroke-width="0.15"/>
+<text x="50.500" y="138.700" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.2" text-anchor="start" font-weight="normal" fill="#000">10.00 mm between the centres of the two end pins</text>
+<text x="18.000" y="152.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.0" text-anchor="start" font-weight="bold" fill="#000">Step 3. HS3 plug (two rows of seven holes). Hold the end of the HS3 against each pattern.</text>
+<text x="38.000" y="163.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">Pattern C: 2.00 mm pitch</text>
+<text x="38.000" y="167.800" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">What the adapter is built for. All fourteen holes should sit on the fourteen dots.</text>
+<rect x="35.675" y="171.850" width="16.65" height="6.3" fill="none" stroke="#888" stroke-width="0.15" stroke-dasharray="1 0.6"/>
+<circle cx="38.000" cy="174.000" r="0.35" fill="#000"/>
+<circle cx="40.000" cy="174.000" r="0.35" fill="#000"/>
+<circle cx="42.000" cy="174.000" r="0.35" fill="#000"/>
+<circle cx="44.000" cy="174.000" r="0.35" fill="#000"/>
+<circle cx="46.000" cy="174.000" r="0.35" fill="#000"/>
+<circle cx="48.000" cy="174.000" r="0.35" fill="#000"/>
+<circle cx="50.000" cy="174.000" r="0.35" fill="#000"/>
+<circle cx="38.000" cy="176.000" r="0.35" fill="#000"/>
+<circle cx="40.000" cy="176.000" r="0.35" fill="#000"/>
+<circle cx="42.000" cy="176.000" r="0.35" fill="#000"/>
+<circle cx="44.000" cy="176.000" r="0.35" fill="#000"/>
+<circle cx="46.000" cy="176.000" r="0.35" fill="#000"/>
+<circle cx="48.000" cy="176.000" r="0.35" fill="#000"/>
+<circle cx="50.000" cy="176.000" r="0.35" fill="#000"/>
+<line x1="38.000" y1="170.800" x2="38.000" y2="179.200" stroke="#000" stroke-width="0.1"/>
+<line x1="50.000" y1="170.800" x2="50.000" y2="179.200" stroke="#000" stroke-width="0.1"/>
+<line x1="38.000" y1="183.000" x2="50.000" y2="183.000" stroke="#000" stroke-width="0.15"/>
+<line x1="38.000" y1="182.000" x2="38.000" y2="184.000" stroke="#000" stroke-width="0.15"/>
+<line x1="50.000" y1="182.000" x2="50.000" y2="184.000" stroke="#000" stroke-width="0.15"/>
+<text x="52.500" y="184.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.2" text-anchor="start" font-weight="normal" fill="#000">12.00 mm between the first and last hole of a row, rows 2.00 mm apart</text>
+<text x="38.000" y="189.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#555">dashed box: outside of the adapter's header, 16.65 x 6.30 mm. The HS3 plug goes inside it.</text>
+<text x="38.000" y="199.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">Pattern D: 2.54 mm pitch</text>
+<text x="38.000" y="203.800" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">If the holes match this pattern instead, stop: this is not the Xilinx 2 mm plug. Do not order.</text>
+<circle cx="38.000" cy="210.000" r="0.45" fill="#000"/>
+<circle cx="40.540" cy="210.000" r="0.45" fill="#000"/>
+<circle cx="43.080" cy="210.000" r="0.45" fill="#000"/>
+<circle cx="45.620" cy="210.000" r="0.45" fill="#000"/>
+<circle cx="48.160" cy="210.000" r="0.45" fill="#000"/>
+<circle cx="50.700" cy="210.000" r="0.45" fill="#000"/>
+<circle cx="53.240" cy="210.000" r="0.45" fill="#000"/>
+<circle cx="38.000" cy="212.540" r="0.45" fill="#000"/>
+<circle cx="40.540" cy="212.540" r="0.45" fill="#000"/>
+<circle cx="43.080" cy="212.540" r="0.45" fill="#000"/>
+<circle cx="45.620" cy="212.540" r="0.45" fill="#000"/>
+<circle cx="48.160" cy="212.540" r="0.45" fill="#000"/>
+<circle cx="50.700" cy="212.540" r="0.45" fill="#000"/>
+<circle cx="53.240" cy="212.540" r="0.45" fill="#000"/>
+<line x1="38.000" y1="206.800" x2="38.000" y2="215.740" stroke="#000" stroke-width="0.1"/>
+<line x1="53.240" y1="206.800" x2="53.240" y2="215.740" stroke="#000" stroke-width="0.1"/>
+<line x1="38.000" y1="219.540" x2="53.240" y2="219.540" stroke="#000" stroke-width="0.15"/>
+<line x1="38.000" y1="218.540" x2="38.000" y2="220.540" stroke="#000" stroke-width="0.15"/>
+<line x1="53.240" y1="218.540" x2="53.240" y2="220.540" stroke="#000" stroke-width="0.15"/>
+<text x="55.740" y="220.740" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.2" text-anchor="start" font-weight="normal" fill="#000">15.24 mm between the first and last hole of a row, rows 2.54 mm apart</text>
+<text x="18.000" y="235.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">Without a printer</text>
+<text x="18.000" y="242.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">Card header J4, centre of pin 1 to centre of pin 6</text>
+<text x="128.000" y="242.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">12.70 mm = correct</text>
+<text x="166.000" y="242.000" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">10.00 mm = wrong</text>
+<text x="18.000" y="247.600" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">Card header J4, outside faces of the two end pins (calipers)</text>
+<text x="128.000" y="247.600" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">13.3 mm = correct</text>
+<text x="166.000" y="247.600" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">10.5 mm = wrong</text>
+<text x="18.000" y="253.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">HS3 plug, centre of the first hole to centre of the seventh in a row</text>
+<text x="128.000" y="253.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">12.00 mm = correct</text>
+<text x="166.000" y="253.200" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">15.24 mm = wrong</text>
+<text x="18.000" y="258.800" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">HS3 plug, centre of one row to centre of the other</text>
+<text x="128.000" y="258.800" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">2.00 mm = correct</text>
+<text x="166.000" y="258.800" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">2.54 mm = wrong</text>
+<text x="18.000" y="266.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">Fit test for J4: a standard 0.1 inch jumper wire housing is 2.54 mm wide. Six side by side, or one 1x6 housing,</text>
+<text x="18.000" y="271.300" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">should slide onto all six pins without spreading apart or bending a pin.</text>
+<text x="18.000" y="278.500" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.3" text-anchor="start" font-weight="normal" fill="#000">The pin at the 1V8 end of J4 is slightly bent on some cards. Straighten it gently before measuring.</text>
+</svg>

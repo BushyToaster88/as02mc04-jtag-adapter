@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "as02mc04") (type "KiCad") (uri "${KIPRJMOD}/lib/as02mc04.pretty") (options "") (descr "AS02MC04 JTAG adapter: J4-ordered right-angle connectors"))
+)

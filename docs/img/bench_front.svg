@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="960" viewBox="0 0 1240 960">
+<rect x="0" y="0" width="1240" height="960" fill="#ffffff"/>
+<defs><marker id="dot" markerWidth="8" markerHeight="8" refX="4" refY="4"><circle cx="4" cy="4" r="3" fill="#444"/></marker><marker id="arr" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#444"/></marker></defs>
+<text x="30.0" y="40.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" text-anchor="start" font-weight="bold" fill="#1b1b1b" >Front of the adapter (parts side): where the probes and wires go</text>
+<text x="30.0" y="68.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#444" >Drawn to scale. The cut-off corner marks the 1V8 end.</text>
+<path d="M354.0,150.0 L882.0,150.0 A24.0,24.0 0 0 1 906.0,174.0 L906.0,811.2 L858.0,859.2 L354.0,859.2 A24.0,24.0 0 0 1 330.0,835.2 L330.0,174.0 A24.0,24.0 0 0 1 354.0,150.0 Z" fill="#2f7a4a" stroke="#173d25" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="395.3" cy="222.0" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="395.3" cy="222.0" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<circle cx="456.2" cy="222.0" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="456.2" cy="222.0" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<circle cx="517.2" cy="222.0" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="517.2" cy="222.0" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<circle cx="718.8" cy="222.0" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="718.8" cy="222.0" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<circle cx="779.8" cy="222.0" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="779.8" cy="222.0" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<circle cx="840.7" cy="222.0" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="840.7" cy="222.0" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<circle cx="618.0" cy="234.0" r="36.0" fill="#ffffff" stroke="#173d25" stroke-width="1.5" />
+<rect x="406.8" y="298.8" width="403.2" height="153.6" rx="0" fill="#1a1a1a" stroke="#000" stroke-width="1" />
+<rect x="423.6" y="315.6" width="369.6" height="120.0" rx="0" fill="#2c2c2c" stroke="#000" stroke-width="0.6" />
+<rect x="560.4" y="297.6" width="96.0" height="19.2" rx="0" fill="#2c2c2c" stroke="none" stroke-width="0" />
+<rect x="578.4" y="276.0" width="60.0" height="9.6" rx="0" fill="#ffffff" stroke="none" stroke-width="0" />
+<rect x="746.4" y="345.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="746.4" y="393.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="698.4" y="345.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="698.4" y="393.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="650.4" y="345.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="650.4" y="393.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="602.4" y="345.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="602.4" y="393.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="554.4" y="345.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="554.4" y="393.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="506.4" y="345.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="506.4" y="393.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="458.4" y="345.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="458.4" y="393.6" width="12.0" height="12.0" rx="0" fill="#d4af37" stroke="#111" stroke-width="0.8" />
+<rect x="535.2" y="500.4" width="19.2" height="38.4" rx="0" fill="#444" stroke="#111" stroke-width="0.8" />
+<rect x="535.2" y="493.8" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="535.2" y="533.4" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="589.2" y="500.4" width="19.2" height="38.4" rx="0" fill="#444" stroke="#111" stroke-width="0.8" />
+<rect x="589.2" y="493.8" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="589.2" y="533.4" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="643.2" y="500.4" width="19.2" height="38.4" rx="0" fill="#444" stroke="#111" stroke-width="0.8" />
+<rect x="643.2" y="493.8" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="643.2" y="533.4" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="697.2" y="500.4" width="19.2" height="38.4" rx="0" fill="#444" stroke="#111" stroke-width="0.8" />
+<rect x="697.2" y="493.8" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="697.2" y="533.4" width="19.2" height="12.0" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="751.2" y="490.1" width="38.4" height="76.8" rx="0" fill="#444" stroke="#111" stroke-width="0.8" />
+<rect x="751.2" y="485.0" width="38.4" height="14.4" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="751.2" y="557.6" width="38.4" height="14.4" rx="0" fill="#c9c9c9" stroke="#111" stroke-width="0.8" />
+<rect x="446.4" y="487.2" width="38.4" height="69.6" rx="0" fill="#222" stroke="#111" stroke-width="0.8" />
+<rect x="387.6" y="502.8" width="19.2" height="38.4" rx="0" fill="#555" stroke="#111" stroke-width="0.8" />
+<rect x="349.2" y="502.8" width="19.2" height="38.4" rx="0" fill="#555" stroke="#111" stroke-width="0.8" />
+<rect x="814.8" y="490.8" width="38.4" height="19.2" rx="0" fill="#b08a3a" stroke="#111" stroke-width="0.8" />
+<rect x="814.8" y="529.2" width="38.4" height="19.2" rx="0" fill="#b08a3a" stroke="#111" stroke-width="0.8" />
+<rect x="853.2" y="409.2" width="19.2" height="38.4" rx="0" fill="#555" stroke="#111" stroke-width="0.8" />
+<rect x="390.0" y="639.6" width="19.2" height="38.4" rx="0" fill="#555" stroke="#111" stroke-width="0.8" />
+<rect x="390.0" y="714.0" width="19.2" height="38.4" rx="0" fill="#f4f1e6" stroke="#111" stroke-width="0.8" />
+<rect x="390.0" y="745.8" width="19.2" height="6.0" rx="0" fill="#2fa84f" stroke="#111" stroke-width="0.8" />
+<rect x="435.1" y="648.0" width="365.8" height="204.0" rx="0" fill="#4a4a4a" stroke="#111" stroke-width="1" />
+<circle cx="465.6" cy="610.8" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="465.6" cy="610.8" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<rect x="457.9" y="622.8" width="15.4" height="25.2" rx="0" fill="#e9e3b8" stroke="none" stroke-width="0" />
+<rect x="452.4" y="825.6" width="26.4" height="26.4" rx="0" fill="#0c0c0c" stroke="#000" stroke-width="0.5" />
+<circle cx="526.6" cy="610.8" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="526.6" cy="610.8" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<rect x="518.9" y="622.8" width="15.4" height="25.2" rx="0" fill="#e9e3b8" stroke="none" stroke-width="0" />
+<rect x="513.4" y="825.6" width="26.4" height="26.4" rx="0" fill="#0c0c0c" stroke="#000" stroke-width="0.5" />
+<circle cx="587.5" cy="610.8" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="587.5" cy="610.8" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<rect x="579.8" y="622.8" width="15.4" height="25.2" rx="0" fill="#e9e3b8" stroke="none" stroke-width="0" />
+<rect x="574.3" y="825.6" width="26.4" height="26.4" rx="0" fill="#0c0c0c" stroke="#000" stroke-width="0.5" />
+<circle cx="648.5" cy="610.8" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="648.5" cy="610.8" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<rect x="640.8" y="622.8" width="15.4" height="25.2" rx="0" fill="#e9e3b8" stroke="none" stroke-width="0" />
+<rect x="635.3" y="825.6" width="26.4" height="26.4" rx="0" fill="#0c0c0c" stroke="#000" stroke-width="0.5" />
+<circle cx="709.4" cy="610.8" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="709.4" cy="610.8" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<rect x="701.8" y="622.8" width="15.4" height="25.2" rx="0" fill="#e9e3b8" stroke="none" stroke-width="0" />
+<rect x="696.2" y="825.6" width="26.4" height="26.4" rx="0" fill="#0c0c0c" stroke="#000" stroke-width="0.5" />
+<circle cx="770.4" cy="610.8" r="20.4" fill="#d4af37" stroke="#7a651c" stroke-width="1" />
+<circle cx="770.4" cy="610.8" r="12.0" fill="#ffffff" stroke="#7a651c" stroke-width="0.8" />
+<rect x="762.7" y="622.8" width="15.4" height="25.2" rx="0" fill="#e9e3b8" stroke="none" stroke-width="0" />
+<rect x="757.2" y="825.6" width="26.4" height="26.4" rx="0" fill="#0c0c0c" stroke="#000" stroke-width="0.5" />
+<text x="395.3" y="184.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >GND</text>
+<text x="456.2" y="184.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >TDI</text>
+<text x="517.2" y="184.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >TDO</text>
+<text x="718.8" y="184.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >TCK</text>
+<text x="779.8" y="184.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >TMS</text>
+<text x="844.3" y="184.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >VREF</text>
+<text x="618.0" y="184.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >PULL</text>
+<text x="372.0" y="366.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" transform="rotate(-90 372.0 366.0)" >HS3</text>
+<text x="405.6" y="616.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >GND</text>
+<text x="835.2" y="616.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff" >1V8</text>
+<text x="364.8" y="696.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" transform="rotate(-90 364.8 696.0)" >REVERSED</text>
+<text x="752.4" y="432.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffd966" >VREF</text>
+<text x="704.4" y="432.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffd966" >TMS</text>
+<text x="656.4" y="432.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffd966" >TCK</text>
+<text x="608.4" y="432.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffd966" >TDO</text>
+<text x="560.4" y="432.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffd966" >TDI</text>
+<text x="512.4" y="432.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#9a9a9a" >nc</text>
+<text x="464.4" y="432.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#9a9a9a" >nc</text>
+<text x="608.4" y="333.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffd966" >these seven: ground</text>
+<text x="544.8" y="486.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffffff" >TDI</text>
+<text x="598.8" y="486.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffffff" >TDO</text>
+<text x="652.8" y="486.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffffff" >TCK</text>
+<text x="706.8" y="486.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffffff" >TMS</text>
+<text x="800.4" y="533.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#ffffff" >R9</text>
+<text x="465.6" y="526.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#ffffff" >Q1</text>
+<text x="417.6" y="739.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#ffffff" >D2</text>
+<line x1="465.6" y1="905.2" x2="465.6" y2="865.2" stroke="#444" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="465.6" y="925.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#1b1b1b" >GND</text>
+<line x1="526.6" y1="905.2" x2="526.6" y2="865.2" stroke="#444" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="526.6" y="925.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#1b1b1b" >TDI</text>
+<line x1="587.5" y1="905.2" x2="587.5" y2="865.2" stroke="#444" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="587.5" y="925.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#1b1b1b" >TDO</text>
+<line x1="648.5" y1="905.2" x2="648.5" y2="865.2" stroke="#444" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="648.5" y="925.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#1b1b1b" >TCK</text>
+<line x1="709.4" y1="905.2" x2="709.4" y2="865.2" stroke="#444" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="709.4" y="925.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#1b1b1b" >TMS</text>
+<line x1="770.4" y1="905.2" x2="770.4" y2="865.2" stroke="#444" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="770.4" y="925.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#1b1b1b" >1V8</text>
+<text x="618.0" y="955.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#1b1b1b" >Socket J2: six openings in the bottom edge. Jumper wire pins go in here.</text>
+<line x1="306.0" y1="190.8" x2="380.9" y2="231.6" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="300.0" y="196.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >GND test hole</text>
+<text x="300.0" y="214.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >= adapter ground,</text>
+<text x="300.0" y="232.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >behind Q1</text>
+<line x1="306.0" y1="294.8" x2="577.2" y2="282.0" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="300.0" y="300.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >White bar and the slot</text>
+<text x="300.0" y="318.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >in J1's wall: the HS3's</text>
+<text x="300.0" y="336.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >key goes on this side</text>
+<line x1="306.0" y1="499.8" x2="446.4" y2="522.0" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="300.0" y="505.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >Q1, the reverse</text>
+<text x="300.0" y="523.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >protection switch</text>
+<line x1="306.0" y1="644.8" x2="451.2" y2="625.2" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="300.0" y="650.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >GND solder pin</text>
+<text x="300.0" y="668.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >= card ground</text>
+<text x="300.0" y="686.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >(J2 pin 6)</text>
+<line x1="306.0" y1="754.8" x2="390.0" y2="733.2" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="300.0" y="760.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >D2, the red LED.</text>
+<text x="300.0" y="778.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >Green mark toward</text>
+<text x="300.0" y="796.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" font-weight="normal" fill="#1b1b1b" >the bottom edge</text>
+<line x1="930.0" y1="190.8" x2="855.1" y2="231.6" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="936.0" y="196.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >VREF test hole</text>
+<text x="936.0" y="214.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >= the 1.8 V after R9</text>
+<line x1="930.0" y1="294.8" x2="759.6" y2="351.6" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="936.0" y="300.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >J1, row beside the slot:</text>
+<text x="936.0" y="318.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >all seven pins are ground</text>
+<line x1="930.0" y1="364.8" x2="759.6" y2="399.6" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="936.0" y="370.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >J1, row beside the resistors,</text>
+<text x="936.0" y="388.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >from this end: VREF, TMS,</text>
+<text x="936.0" y="406.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >TCK, TDO, TDI, two unused</text>
+<line x1="930.0" y1="464.8" x2="716.4" y2="499.8" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="936.0" y="470.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >Upper pad of each small</text>
+<text x="936.0" y="488.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >resistor: the HS3 side of</text>
+<text x="936.0" y="506.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >that signal (22 ohm check)</text>
+<line x1="930.0" y1="554.8" x2="789.6" y2="550.1" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="936.0" y="560.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >R9, the 4.7 ohm limiter</text>
+<line x1="930.0" y1="664.8" x2="784.8" y2="625.2" stroke="#444" stroke-width="1" marker-end="url(#dot)"/>
+<text x="936.0" y="670.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >1V8 solder pin</text>
+<text x="936.0" y="688.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#1b1b1b" >(J2 pin 1)</text>
+</svg>
